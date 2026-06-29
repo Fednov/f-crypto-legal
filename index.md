@@ -4,7 +4,7 @@
 
 **Last Updated: 2026-06-29**
 
-This Privacy Policy describes how **F_Crypto** ("the App") collects, uses, and shares information when you use our mobile application.
+Your privacy is important to us. This Privacy Policy describes how **F_Crypto** ("the App") collects, uses, and shares information when you use our mobile application.
 
 ## 1. Information Collection and Use
 
