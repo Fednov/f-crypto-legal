@@ -1,3 +1,5 @@
+[Read this in English 🇺🇸](https://fednov.github.io/f-crypto-legal/)
+
 # Политика конфиденциальности приложения F_Crypto
 
 **Дата последнего обновления:** 29.06.2026
