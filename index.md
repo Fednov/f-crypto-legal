@@ -1,3 +1,5 @@
+[Читать на русском языке 🇷🇺](https://fednov.github.io/f-crypto-legal/ru)
+
 # Privacy Policy for F_Crypto
 
 **Last Updated: 2026-06-29**
