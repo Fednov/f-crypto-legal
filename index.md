@@ -17,6 +17,7 @@ We use third-party services to provide real-time data and monitor app performanc
 
 *   **Market Data Providers (Binance API, CoinGecko API):** These services provide price information. They may process your IP address as part of standard web requests when the App requests data.
 *   **Error Reporting (Sentry):** We use Sentry to collect anonymous crash reports and performance data to improve the App. This may include device model, OS version, and technical logs. We do not send any personal data to Sentry.
+*   **AppMetrica (Yandex):** We use AppMetrica to collect aggregated, anonymized statistical data, such as the number of installations, active sessions, device types, and operating system versions. This information helps us analyze general usage trends and optimize the Application's performance. AppMetrica does not collect any personally identifiable information (PII) and processes data in a de-identified format.
 
 ## 3. Security
 
